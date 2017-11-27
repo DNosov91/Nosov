@@ -8,5 +8,5 @@ public class Task05 {public static void main(String[] args) {
     a=s.nextLine();
     b=s.nextLine();
     System.out.println(a+" "+b);
-
+    System.out.printf("%s %s",b,a);
 }}
